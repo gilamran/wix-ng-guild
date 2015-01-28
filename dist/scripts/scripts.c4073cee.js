@@ -1,0 +1,1 @@
+"use strict";angular.module("wixNgGuildApp",["firebase","ngTable"]),angular.module("wixNgGuildApp").controller("MainCtrl",["$scope","$firebase",function(a,b){var c=new Firebase("https://wix-ng-guild.firebaseio.com/"),d=b(c);a.data=d.$asObject()}]);
