@@ -1,0 +1,7 @@
+{
+  "name": "Wix-ng-guild list",
+  "description": "A web app to see all the wix guild members",
+  "repository": "git@github.com:gilamran/wix-ng-guild.git",
+  "logo": "http://node-js-sample.herokuapp.com/node.svg",
+  "keywords": ["node", "express", "static"]
+}
